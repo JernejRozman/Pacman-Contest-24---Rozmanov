@@ -1,3 +1,0 @@
-[submodule "pacman-agent"]
-	path = pacman-agent
-	url = https://github.com/aig-upf/pacman-agent.git
